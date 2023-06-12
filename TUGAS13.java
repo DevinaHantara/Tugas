@@ -21,9 +21,8 @@ public static void main(String[] args) {
      Scanner menu = new Scanner(System.in);
 
      do{
-          System.out.println("\n-----------------");
           System.out.println("Power Recruitment");
-          System.out.println("-----------------\n");
+          System.out.println("-----------------");
           System.out.println("1. Input New Candidate");
           System.out.println("2. View Candidate's Data");
           System.out.println("3. Remove Candidate");
